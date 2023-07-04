@@ -1,0 +1,2 @@
+I am forming my first repositorys and wishing to expose myself to many different facets of coding.
+I am utilizing free and open source resources to do so. As such you will see many different things in my repositories ranging from Cyber Security to Web development.
